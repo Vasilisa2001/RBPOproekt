@@ -1,0 +1,58 @@
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.AssemblyReference.cache
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\MainWindow.g.cs
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\App.g.cs
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.cache
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.lref
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\Database1.mdf
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\Database1_log.ldf
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\TestDB.mdf
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\TestDB_log.ldf
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\BankWPF.exe.config
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\BankWPF.exe
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\BankWPF.pdb
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\Bank.exe
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\Bank.pdb
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\bin\Debug\Bank.exe.config
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\MainWindow.baml
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.g.resources
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.Properties.Resources.resources
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.GenerateResource.cache
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CoreCompileInputs.cache
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CopyComplete
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.exe
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\BankWPF.pdb
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.g.cs
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\RegistrationPage.g.cs
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.baml
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\RegistrationPage.baml
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\PersonalAccountPage.g.cs
+C:\Users\bauro\source\repos\gruppa\BankWPF\BankWPF\obj\Debug\Pages\PersonalAccountPage.baml
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.AssemblyReference.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\MainWindow.g.cs
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.g.cs
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\PersonalAccountPage.g.cs
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\RegistrationPage.g.cs
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\App.g.cs
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF_MarkupCompile.lref
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.exe
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.pdb
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\Database1.mdf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\Database1_log.ldf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\TestDB.mdf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\TestDB_log.ldf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\BankWPF.exe.config
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\BankWPF.exe
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\BankWPF.pdb
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\Bank.exe
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\Bank.pdb
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\bin\Debug\Bank.exe.config
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\MainWindow.baml
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\LoginPage.baml
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\PersonalAccountPage.baml
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\Pages\RegistrationPage.baml
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.g.resources
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.Properties.Resources.resources
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.GenerateResource.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\BankWPF\obj\Debug\BankWPF.csproj.CopyComplete

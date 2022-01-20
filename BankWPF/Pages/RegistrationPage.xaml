@@ -1,0 +1,26 @@
+﻿<Page x:Class="BankWPF.Pages.RegistrationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:BankWPF.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RegistrationPage">
+
+    <Grid Margin="0,0,0.4,0" Background="#FF84B8DC">
+        <Button Content="Регистрация" HorizontalAlignment="Left" Margin="325,239,0,0" VerticalAlignment="Top" Width="120" Click="Button_Click_1" Background="#FF767CE5"/>
+        <TextBox x:Name="loginTextBox" HorizontalAlignment="Left" Height="23" Margin="327,88,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="passTextBox" HorizontalAlignment="Left" Height="23" Margin="327,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="firstNameTextBox" HorizontalAlignment="Left" Height="23" Margin="327,144,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="secondNameTextBox" HorizontalAlignment="Left" Height="23" Margin="327,172,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="У меня уже есть аккаунт" HorizontalAlignment="Left" Margin="306,263,0,0" VerticalAlignment="Top" Width="166" Click="Button_Click" Background="#FF767CE5"/>
+        <TextBox x:Name="phoneTextBox" HorizontalAlignment="Left" Height="23" Margin="327,200,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Логин: " HorizontalAlignment="Left" Margin="271,88,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.74,1.492"/>
+        <Label Content="Пароль: " HorizontalAlignment="Left" Margin="264,114,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.74,1.492"/>
+        <Label Content="Имя: " HorizontalAlignment="Left" Margin="282,144,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.74,1.492"/>
+        <Label Content="Фамилия: " HorizontalAlignment="Left" Margin="256,172,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.74,1.492"/>
+        <Label Content="Телефон: " HorizontalAlignment="Left" Margin="258,198,0,0" VerticalAlignment="Top" RenderTransformOrigin="-1.74,1.492"/>
+
+    </Grid>
+</Page>

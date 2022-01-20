@@ -1,0 +1,22 @@
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\Database1.mdf
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\Database1_log.ldf
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\TestDB.mdf
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\TestDB_log.ldf
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\Bank.exe.config
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\Bank.exe
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\bin\Debug\Bank.pdb
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\obj\Debug\Bank.exe
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\obj\Debug\Bank.pdb
+C:\Users\bauro\source\repos\gruppa\BankWPF\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\Database1.mdf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\Database1_log.ldf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\TestDB.mdf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\TestDB_log.ldf
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\Bank.exe.config
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\Bank.exe
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\bin\Debug\Bank.pdb
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\obj\Debug\Bank.exe
+C:\Рабочий стол\3 КУРС\РБПО\BankWPF\Bank\obj\Debug\Bank.pdb
